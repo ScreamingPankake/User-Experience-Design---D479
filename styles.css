@@ -80,7 +80,6 @@ ul {
     background-size: cover;
     background-position: center;
 
-    filter: blur(1.5px);
     min-height: 25rem;
     z-index: -99;
 }
